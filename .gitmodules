@@ -1,0 +1,3 @@
+[submodule "argo-cd"]
+	path = argo-cd
+	url = git@github.com:slavic-viking/oca-argo-cd.git
